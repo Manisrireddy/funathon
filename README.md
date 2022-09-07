@@ -10,7 +10,7 @@
   <body>
     <main>
       <nav class='navBar'>
-        <h1>Kyasani Poojitha Portfolio</h1>
+        <h1>Manisri Portfolio</h1>
           <div class= 'navigationMenu'>
             <a href='#aboutMe'>About Me</a>
             <a href='#Skills'>Skills</a>
@@ -22,13 +22,13 @@
         <img clss='profileImage'
         src='https://cdn-icons-png.flaticon.com/512/194/194938.png'>
         <div class='herosectionDetails'>
-        <h1>Poojitha Kyasani</h1>
+        <h1>Manisri</h1>
         <h3>Computer Science Engineering</h3>
         </div>
       </section>
       <section class='aboutMe' id='aboutMe'>
         <h1>What I Do...</h1>
-        <p> <b>Hi I am Poojitha  b.tech 2nd year from KL University Hyderabad</b>. I created this website for my Profile.
+        <p> <b>Hi I am Manisri b.tech 2nd year from KL University Hyderabad</b>. I created this website for my Profile.
        <i>  <b> WHAT IS HTML</b><i>
          <i> HTML (HyperText Markup Language) is the code that is used to structure a web page and its content.
            For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables</i>
